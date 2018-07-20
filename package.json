@@ -42,5 +42,17 @@
     "rollup": "^0.63.4",
     "rollup-plugin-babel": "^3.0.7",
     "rollup-plugin-json": "^3.0.0"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojo2/wad-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rojo2/wad-parser/issues"
+  },
+  "homepage": "https://github.com/rojo2/wad-parser#readme"
 }
