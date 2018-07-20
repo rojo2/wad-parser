@@ -1,6 +1,6 @@
 {
   "name": "@rojo2/wad-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WAD parser and extractor",
   "main": "dist/index.js",
   "bin": {
